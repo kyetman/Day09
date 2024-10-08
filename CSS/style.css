@@ -4,7 +4,7 @@ body {
 }
 .nav {
     list-style-type: none;
-    background-color: aliceblue;
+    background-color: gray;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -31,10 +31,10 @@ ul.nav2 a:hover {
     background-color: #555;
     color: white;
 }
-ul.nav2 li {
+ul.nav li {
     float: left
 }
-ul.nav2 li a {
+ul.nav li a {
     display: block;
     padding: 8px 16px;
     color: black;
